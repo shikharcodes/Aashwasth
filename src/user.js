@@ -3,13 +3,13 @@ import 'gun/sea';
 import 'gun/axe';
 import { writable } from 'svelte/store';
 
-// Database
+// database
 export const db = GUN();
 
-// Gun User
+// gun user
 export const user = db.user().recall({sessionStorage: true});
 
-// Current User's username
+// current user's username
 export const username = writable('');
 
 user.get('alias').on(v => username.set(v))
