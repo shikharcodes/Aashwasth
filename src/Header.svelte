@@ -19,7 +19,6 @@
     <button class="signout-button" on:click={signout}>Sign Out</button>
 
     {:else}
-
       <h3>Chatting Dapp</h3>
   {/if}
 </header>
