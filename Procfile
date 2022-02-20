@@ -1,0 +1,1 @@
+web: npm update & npm run dev
