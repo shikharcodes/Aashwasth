@@ -81,6 +81,7 @@
     <main on:scroll={debouncedWatchScroll}>
       {#each messages as message (message.when)}
         <ChatMessage {message} sender={$username} />
+        🧡
       {/each}
 
       <div class="dummy" bind:this={scrollBottom} />
