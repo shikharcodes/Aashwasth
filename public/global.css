@@ -253,5 +253,11 @@ header {
 
   .signout-button {
 	  font-size: 0.8rem;
-	  padding: 0.5rem 1rem;
+	  padding: 0.5rem 1.5rem;
+	  background: #000000;
+  }
+
+  .signout-button:hover {
+	background: rgb(211, 32, 32);
+	font-weight: 600;
   }
