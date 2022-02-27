@@ -2,6 +2,8 @@
 
 We are working on building a decentralized app(Dapp) named 'अश्वस्थ' which helps to find out early signs of depression among people through their chat messages using a sentiment analysis model of emotion recognition.
 
+🏆 Our hack was adjudged Winner (Sophomore Year) at the JUET Builds 2022 hackathon! 
+
 ## The problem अश्वस्थ solves
 We are the Generation of Stress. We are, more than seemingly ever before, dissatisfied by our realities. People are getting stressed out even about small things happening with them. This much of stress and anxiety eventually leads them to depression and even suicides.To help this at-risk population, we decided to create this platform!
 
